@@ -193,6 +193,6 @@ input {
 
 #session_remember_me {
     width: auto;
-    margin-left: 10;
+    margin-left: 0;
 }
 
